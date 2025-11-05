@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #cbddda;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: rgb(130, 16, 16);
+}
+
+h2 {
+  font-size: 30px;;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 800px;
+}
+
+.btn {
+  display: flex;
+ justify-content: space-evenly;
+}
+
+button {
+  background-color: rgb(130, 16, 16);
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  text-transform: uppercase;
+}
