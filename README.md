@@ -1,16 +1,70 @@
-# React + Vite
+# 🚗 Best Cars 2025
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A website showcasing the **Top 10 Best Cars of 2025**, featuring detailed descriptions of each model, key specifications, and reasons why they were selected.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://best-cars2025.netlify.app/](https://best-cars2025.netlify.app/)
 
-## React Compiler
+## 🖥️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* CSS Modules / Styled Components (if used)
+* JSX
+* Vite (if applicable)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🏆 Top 10 cars of 2025
+* 📄 Detailed description for each model
+* ⭐ Key reasons why each car made it into the ranking
+* 📱 Fully responsive layout
+* ⚡ Smooth and fast navigation
+
+## 🖼️ Screenshots
+
+![Best Cars Screenshot](best-cars.png)
+
+## 📁 Folder Structure
+
+```
+best-cars-2025/
+  ├── public/
+  ├── src/
+  │   ├── components/
+  │   ├── pages/
+  │   ├── assets/
+  │   └── App.jsx
+  ├── package.json
+  └── README.md
+```
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone <your-repo-url>
+cd best-cars-2025
+npm install
+npm run dev
+```
+
+## ♿ Accessibility & Responsiveness
+
+* Mobile-first approach
+* Clear visual hierarchy and contrast
+* Easy-to-use interactive buttons
+* Works across all modern browsers
+
+## 🚧 Future Improvements
+
+* 🔍 Add car filtering options
+* 🚘 Create a comparison page for models
+* 🌙 Add dark mode
+* 🌍 Add multi-language support
+
+## 👩‍💻 Author
+
+### © 2025 Nataliia Litskevych
+
+If you'd like to connect or collaborate — feel free to reach out!
+
