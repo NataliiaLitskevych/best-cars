@@ -2,6 +2,10 @@
 
 A website showcasing the **Top 10 Best Cars of 2025**, featuring detailed descriptions of each model, key specifications, and reasons why they were selected.
 
+## 🖼️ Screenshots
+
+![Best Cars Screenshot](best-cars.png)
+
 ## 🔗 Live Demo
 
 [https://best-cars2025.netlify.app/](https://best-cars2025.netlify.app/)
@@ -20,10 +24,6 @@ A website showcasing the **Top 10 Best Cars of 2025**, featuring detailed descri
 * ⭐ Key reasons why each car made it into the ranking
 * 📱 Fully responsive layout
 * ⚡ Smooth and fast navigation
-
-## 🖼️ Screenshots
-
-![Best Cars Screenshot](best-cars.png)
 
 ## 📁 Folder Structure
 
